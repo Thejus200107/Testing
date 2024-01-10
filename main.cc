@@ -3,7 +3,7 @@
 
 int main(){
   int a = thejus(8,5);
-  printf("%d\n",a);
+  printf("Result:%d",a);
   return 0;
 }
 

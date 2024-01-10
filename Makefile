@@ -1,7 +1,7 @@
 obj:
 	g++ -c myapi.cc -o myapi.o
 	
-createlib:
+lib:
 	ar rcs libapi.a myapi.o
 	
 all:
